@@ -1,0 +1,189 @@
+[
+
+    {
+        "model": 2010, 
+        "id": "ninja-300", 
+        "imageUrl": "img/motos/Motul_104048_3000_4T_20W50_1l.png", 
+        "name": "Mineral LONG LIFE Motul 4000 15W50 5Lts", 
+        "precio": "413.51",
+        "snippet": "Hecha para deleitar tu andar"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104066_5100_4T_10W40_1l.png",
+        "name": "Semisintetico Technositese Motul 4100 10W40 4 Lts",
+        "precio":"380.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2012, 
+        "id": "cbr-1000 rr", 
+        "imageUrl": "img/motos/Motul_104080_5100_4T_15W50_1l.png", 
+        "name": "Semisintetico Technositese Motul 4100 10W40 5 Lts",
+        "precio": "456.00", 
+        "snippet": "Supera tus limites y mucho mas"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104091_7100_4T_10W40_1l.png",
+        "name": "Semisintetico PREMIUM Technositese Motul 4100 15W50 5 Lts",
+        "precio": "612.47", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico PREMIUM Technositese Motul 6100 10W40 5 Lts",
+        "precio": "612.47", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico PREMIUM Technositese Motul 6100 10W40 2 Lts",
+        "precio": "246.75", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico PREMIUM Technositese Motul 6100 0W20 4 Lts",
+        "precio": "481.50", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico PREMIUM Technositese Motul SPECIFIC VW 508.88 509.99 5W40 4 Lts",
+        "precio": "511.46", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico Technositese Motul Tekma MEGA X 15W50 1 Lts",
+        "precio": "114.76", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico Technositese Motul Tekma MEGA X 15W50 5 Lts",
+        "precio": "508.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico Technositese Motul Tekma MEGA X 15W50 20 Lts",
+        "precio": "1862.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+   {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico Technositese Motul Tekma MEGA X 15W50 208 Lts",
+        "precio": "16066.98", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico Technositese Motul Tekma MEGA X 10W40 208 Lts",
+        "precio": "17366.68", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul SPECIFIC VW 505.01 5W40 5 Lts",
+        "precio": "880.61", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul SPECIFIC VW 505.01 5W40 1Lts",
+        "precio": "210.26", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul SPECIFIC FORD 913.D 5W30 5 Lts",
+        "precio": "886.70", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul 8100 X-CESS 5W40 5Lts",
+        "precio": "703.20", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul 8100 X-CESS 5W40 2Lts",
+        "precio": "329.88", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul 8100 Eco Nergy 5W30 5Lts",
+        "precio": "680.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul 8100 Eco Nergy 5W30 1Lts",
+        "precio": "219.35", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Motul 8100 X Clean 5W30 5 Lts",
+        "precio": "772.54", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Competicion Motul 300V Competicion 15W50 2Lts",
+        "precio": "595.99", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "100% Sintetico Competicion Motul 300V Le Mans 20W60 2 Lts",
+        "precio": "651.63", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    }
+
+
+]

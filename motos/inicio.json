@@ -1,0 +1,28 @@
+[
+
+    {
+        "model": 2010, 
+        "id": "datos", 
+        "imageUrl": "img/motos/negocio.jpg", 
+        "name": "Datos de Contacto", 
+        "precio": "113.00",
+        "snippet": "Hecha para deleitar tu andar"
+    },
+    {
+        "model": 2014, 
+        "id": "motos", 
+        "imageUrl": "img/motos/moto.jpg",
+        "name": "Lubricantes para Motos",
+        "precio":"116.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2012, 
+        "id": "autos", 
+        "imageUrl": "img/motos/auto.jpg", 
+        "name": "Lubricantes para Autos",
+        "precio": "148.34", 
+        "snippet": "Supera tus limites y mucho mas"
+    }
+
+]    

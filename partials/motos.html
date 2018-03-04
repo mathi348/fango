@@ -1,0 +1,27 @@
+
+
+<div class="blog-header">
+  <h1 class="blog-title">Lubricantes Motul para Motos</h1>
+  <p class="lead blog-description">Lo mejor en lubricantes</p>
+</div>
+
+<div class="row">
+  <div class="col-sm-7 blog-main">
+    <ul class="motos">
+      <li ng-repeat="aceite in aceites | filter:query | orderBy:orderProp" class="thumbnail moto-listing">
+        <a ><img  ng-src="{{aceite.imageUrl}}"></a>
+        <a >{{aceite.name}}</a>
+        
+      </li>
+    </ul>
+  </div>
+<div class="col-sm-5 blog-sidebar">
+    <h1>Fango S.A.</h1>
+    <h2>Av Libertador San Martin Este 778</h2>
+    <h2>San Juan 5400</h2>
+    <h2>Tel: 264-4217493</h2>
+    <h2>Cel: 264-156623780</h2>
+    <h1>E-mail: fangomotul@gmail.com</h1>
+</div>
+
+</div>

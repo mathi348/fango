@@ -1,0 +1,33 @@
+{
+    "manufacter": {
+        "name": "Kawasaki", 
+        "country": "Japan"
+    }, 
+    "engine": {
+        "gears": "5", 
+        "transmission": "Automatic", 
+        "type": "Diesel"
+    }, 
+    "description": "Hecha para deleitar tu andar",
+    "id": "ninja-300", 
+    "images": [
+        "img/motos/Motul_104066_5100_4T_10W40_1l.png",
+        "img/motos/ninja 300 2.jpg",
+        "img/motos/ninja 300 3.jpg",
+        "img/motos/ninja 300 4.jpg",
+        "img/motos/ninja 300 5.jpg"
+    ], 
+    "name": "Motul 5100 4T 10W40", 
+    "precio": "$350",
+    "sizeAndWeight": {
+        "dimensions": [
+                "L: 2,015 mm (79.3 in)",
+                "W: 715 mm (28.1 in)",
+                "H: 1,110 mm (44 in)"
+        ], 
+        "weight": "174.6 kg (385.0 lb)"
+    }, 
+    "space": {
+        "volume": "1600L"
+    }
+}

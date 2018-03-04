@@ -1,0 +1,205 @@
+[
+
+    {
+        "model": 2010, 
+        "id": "ninja-300", 
+        "imageUrl": "img/motos/Motul_104048_3000_4T_20W50_1l.png", 
+        "name": "Mineral 3000 20W-50 1Lt 4T", 
+        "precio": "113.00",
+        "snippet": "Hecha para deleitar tu andar"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104066_5100_4T_10W40_1l.png",
+        "name": "HC TECH 5000 10W30 1Lt 4T",
+        "precio":"116.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2012, 
+        "id": "cbr-1000 rr", 
+        "imageUrl": "img/motos/Motul_104080_5100_4T_15W50_1l.png", 
+        "name": "Semisintetico 5100 10W40 1Lt 4T",
+        "precio": "148.34", 
+        "snippet": "Supera tus limites y mucho mas"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104091_7100_4T_10W40_1l.png",
+        "name": "Sintetico 100% 7100 10W40 1Lt 4T",
+        "precio": "215.76", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 7101 10W50 1Lt 4T",
+        "precio": "215.76", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 7100 10W60 1Lt 4T",
+        "precio": "215.76", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 300 V 15W50 COMPETICION 1Lt 4T",
+        "precio": "368.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 300 V 5W40 COMPETICION 1Lt 4T",
+        "precio": "368.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 800 RACING 1Lt 2T Pre mezcla",
+        "precio": "334.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% 710 1Lt 2T Automix",
+        "precio": "245.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Sintetico 100% KART RACING 1Lt 2T",
+        "precio": "385.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+   {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semisintetico 510 POWERLUBE 1Lt 2T",
+        "precio": "134.57", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Semsintetico NAUTICO 2T OUTBOARD 1Lt",
+        "precio": "150.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Suspensión FORK OIL 5w - 10w - 20w 1Lt",
+        "precio": "180.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Suspensión FORK OIL 2.5w 1Lt",
+        "precio": "220.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Transmisión 75W 90 1Lt",
+        "precio": "224.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Transmisión TRANSOIL 2T 10W-30 1Lt",
+        "precio": "113.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Refrigerante INUGEL 50 1Lt",
+        "precio": "110.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Lubricante de Cadena 400 mL Enduro SPRAY",
+        "precio": "196.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Lubricante de Cadena 100 mL Enduro SPRAY",
+        "precio": "117.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Lubricante de Cadena 400 mL Calle SPRAY",
+        "precio": "196.75", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Lubricante de Cadena 100 mL Calle SPRAY",
+        "precio": "117.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Antipinchazo Infla y Repara Neumaticos SPRAY",
+        "precio": "190.64", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Aceite FILTRO DE AIRE LIQUIDO x 1 Lts 1 Lt",
+        "precio": "385.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    },
+    {
+        "model": 2014, 
+        "id": "yzf-r1", 
+        "imageUrl": "img/motos/Motul_104100_7100_4T_10W60_1l.png",
+        "name": "Aceite FILTRO DE AIRE AEROSOL Cm3",
+        "precio": "175.00", 
+        "snippet": "Disfruta la vida con la nueva Yamaha YZF-R1"
+    }
+
+
+]

@@ -1,0 +1,32 @@
+{
+    "manufacter": {
+        "name": "Yamaha", 
+        "country": "Japan"
+    }, 
+    "engine": {
+        "gears": "6", 
+        "transmission": "Manual", 
+        "type": "Diesel"
+    }, 
+    "description": "Disfruta la vida con la nueva Yamaha YZF-R1",  
+    "id": "navara", 
+    "images": [
+        "img/motos/yamaha.jpg",
+        "img/motos/yamaha 2.jpg",
+        "img/motos/yamaha 3.jpg",
+        "img/motos/yamaha 4.jpg",
+        "img/motos/yamaha 5.jpg"
+    ], 
+    "name": "Navara", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Longitud 2.060 mm",
+            "Ancho  720 mm",
+            "Altura 1.110 mm"
+        ], 
+        "weight": "177 Kg"
+    }, 
+    "space": {
+        "volume": "1646L"
+    }
+}

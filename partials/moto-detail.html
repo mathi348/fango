@@ -1,0 +1,18 @@
+
+
+<div class="blog-header">
+  <h1 class="blog-title">Lubricantes Motul para Autos</h1>
+  <p class="lead blog-description">Lo mejor en lubricantes</p>
+</div>
+
+<div class="row">
+  <div class="col-sm-7 blog-main">
+    <ul class="motos">
+      <li ng-repeat="aceite in aceites | filter:query | orderBy:orderProp" class="thumbnail moto-listing">
+        <a href="#/motos/{{aceite.id}}" ><img  ng-src="{{aceite.imageUrl}}"></a>
+        <a href="#/motos/{{aceite.id}}">{{aceite.name}}</a>
+        <p>${{aceite.precio}}</p>
+      </li>
+    </ul>
+  </div>
+</div>
